@@ -1,0 +1,8 @@
+{
+  "name": "Super Agencies",
+  "description": "Wholesale Manufacturer of Quality Photo Frames.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
